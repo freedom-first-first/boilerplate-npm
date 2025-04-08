@@ -1,10 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-		"name": "Jane Doe",
-		"email": "jane@example.com",
-		"url": "https://janedoe.dev"
-	  },
+	"author": "kamga",
 	"description": "a project that helps me to learn about api",
 	"dependencies": {
 		"express": "^4.14.0"
